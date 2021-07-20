@@ -127,6 +127,22 @@ import UrgencyPrinciple from '@site/image-generator/yml/level-5/urgency-principl
 
 - Here, Cathy is actually the one making the mistake. It follows from *High-Value Principle* that you should never assume that your teammates are making a mistake. If Bob is discarding, then it means that Cathy also has the exact same copy of the card, and Cathy should immediately blind-play.
 
+#### More examples: Example 1.
+
+An ambigous finesse could also be a self finesse. For example, in a 4-player game:
+- Nothing is played on the stacks
+- Alice clues Bob about a red 2 as a *Play Clue*
+- Both Bob **and** Cathy have a red 1 on their *Finesse Position*.
+- Bob will thank that it is a *Finesse* directed at Cathy, and he will discard.
+- Next, Cathy will release this is an ambiguous finesse and play r1.
+
+#### More examples: Example 2.
+
+- Nothing is played on the stacks. 
+- Alice clues Bob about a red 2 as a *Play Clue*. Bob does not know the color of his 2.
+- Bob **and** Donald have a red 1 on their *Finesse Position*.
+
+
 <br />
 
 ## General Principles
